@@ -2,7 +2,7 @@
 
 namespace Synot.Task1
 {
-    public class Service : IService
+    public class ServiceWithException : IService
     {
         /// <inheritdoc/>
         /// 
