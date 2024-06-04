@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Synot.Task1", "Synot.Task1\Synot.Task1.csproj", "{03662201-2ACB-4818-A1F7-E277BFCED559}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Synot.Task.Tests", "Synot.Task.Tests\Synot.Task.Tests.csproj", "{745D25E9-577B-4C71-B934-E803AC542FBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03662201-2ACB-4818-A1F7-E277BFCED559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03662201-2ACB-4818-A1F7-E277BFCED559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03662201-2ACB-4818-A1F7-E277BFCED559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03662201-2ACB-4818-A1F7-E277BFCED559}.Release|Any CPU.Build.0 = Release|Any CPU
+		{745D25E9-577B-4C71-B934-E803AC542FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{745D25E9-577B-4C71-B934-E803AC542FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{745D25E9-577B-4C71-B934-E803AC542FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{745D25E9-577B-4C71-B934-E803AC542FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3383A0D-F06A-4374-8449-77265D1CD2B4}
+	EndGlobalSection
+EndGlobal
